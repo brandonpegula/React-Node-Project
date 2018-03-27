@@ -6,6 +6,9 @@
     "node": "8.1.1",
     "yarn": "1.5.1"
   },
+  "scripts": {
+  "start": "node ./server/index.js"
+},
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.3"
