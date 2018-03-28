@@ -2,7 +2,7 @@
 
 # API Keys
 config_keys.js
-keys.js
+dev.js
 
 # dependencies
 /node_modules
