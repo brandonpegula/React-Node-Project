@@ -1,9 +1,5 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
-# API Keys
-config_keys.js
-dev.js
-
 # dependencies
 /node_modules
 
@@ -15,7 +11,6 @@ dev.js
 
 # misc
 .DS_Store
-.env
 .env.local
 .env.development.local
 .env.test.local
